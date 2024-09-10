@@ -14,7 +14,7 @@
     "authors":[
         {
             "name": "Test_username",
-            "email": "no_email",
+            "email": "no_email"
         }
     ],
     "minimum-stability": "dev",
