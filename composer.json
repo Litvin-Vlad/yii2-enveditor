@@ -1,5 +1,5 @@
 {
-    "name": "geoffry304/yii2-enveditor",
+    "name": "test_username/yii2-enveditor",
     "description": "Yii2 Env editor",
     "keywords": [
         "yii2",
@@ -13,9 +13,8 @@
     "license": "MIT",
     "authors":[
         {
-            "name": "Geoffry Van den Eede",
-            "email": "g.vandeneede@dvit.be",
-            "homepage": "http://dvit.be"
+            "name": "Test_username",
+            "email": "no_email",
         }
     ],
     "minimum-stability": "dev",
